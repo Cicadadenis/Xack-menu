@@ -2703,6 +2703,14 @@
     "package_manager" : "git",
     "dependency" : ["git"]
   },
+  "user-poisk" : { 
+    "name" : "user-poisk",
+    "package_name" : "user-poisk",
+    "category" : [null],
+    "url" : "https://github.com/bednakovdenis/user-poisk.git",
+    "package_manager" : "git",
+    "dependency" : ["git"]
+  },
   "volatility" : { 
     "name" : "volatility",
     "package_name" : "volatility",
