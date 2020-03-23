@@ -2706,7 +2706,7 @@
   "user-poisk" : { 
     "name" : "user-poisk",
     "package_name" : "user-poisk",
-    "category" : ["Bednakov-Xack-Live"],
+    "category" : ["Bednakov"],
     "url" : "https://github.com/bednakovdenis/user-poisk.git",
     "package_manager" : "git",
     "dependency" : ["git"]
