@@ -4066,6 +4066,18 @@
     "package_manager" : "git",
     "dependency" : ["git"]
   },
+<<<<<<< HEAD
+  "user-poisk" : { 
+=======
+  "user-poisk" : {
+>>>>>>> first commit
+    "name" : "user-poisk",
+    "package_name" : "user-poisk",
+    "category" : [null],
+    "url" : "https://github.com/bednakovdenis/user-poisk.git",
+    "package_manager" : "git",
+    "dependency" : ["git"]
+  },
   "volatility" : {
 >>>>>>> first commit
     "name" : "volatility",
