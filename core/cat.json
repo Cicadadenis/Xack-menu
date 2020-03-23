@@ -12,7 +12,7 @@
   "ip_tracking" : "Инструменты IP-отслеживания",
   "programming_language" : "Языки Программирования",
   "ddos" : "DDOS Атака",
-  "Bednakov" : "Bednakov",
   "web_server" : "Web Серверы",
-  "termux_os" : "Termux OS"
+  "termux_os" : "Termux OS",
+  "Bednakov" : "Bednakov"
 }
