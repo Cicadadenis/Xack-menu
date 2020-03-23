@@ -14,7 +14,7 @@ class logo:
 *************************************************
 
 \033[1;36m =============================================\033[1;m
-\033[1;33m|          Установка Хакерских программ            |
+\033[1;33m|         Установка Хакерских программ            |
 \033[1;36m =============================================\033[00m''')
 
 
@@ -28,65 +28,66 @@ class logo:
   def not_ins(self):
     self.tool_header()
     print ('''
-\033[1;31m  [ + ]  \033[1;31mWe can't install Tool-X.\033[1;m
-\033[1;31m  [ + ]  \033[1;31mThere are some error.\033[1;m
-\033[1;31m  [ + ]  \033[1;31mPlease try again after some time.\033[1;m''')
+\033[1;31m  [ + ]  \033[1;31mМы не можем установить Tool-X.\033[1;m
+\033[1;31m  [ + ]  \033[1;31mЕсть некоторые ошибки.\033[1;m
+\033[1;31m  [ + ]  \033[1;31mПожалуйста, попробуйте еще раз через некоторое время.\033[1;m''')
     self.tool_footer()
 
   @classmethod
   def ins_tnc(self):
     self.tool_header()
     print ('''
-\033[1;33m  [ + ] \033[1;32mUse It At Your Own Risk.
-\033[1;33m  [ + ] \033[1;32mNo Warranty.
-\033[1;33m  [ + ] \033[1;32mUse it legal purpose only.
-\033[1;33m  [ + ] \033[1;32mWe are not responsible for your actions.
-\033[1;33m  [ + ] \033[1;32mDo not do things that are forbidden.
+\033[1;33m  [ + ] \033[1;32mИспользуйте его на свой страх и риск.
+\033[1;33m  [ + ] \033[1;32mНет гарантии.
+\033[1;33m  [ + ] \033[1;32m
+Используйте это только в законных целях.
+\033[1;33m  [ + ] \033[1;32mЯ не несу ответственности за ваши действия.
+\033[1;33m  [ + ] \033[1;32mНе делайте то, что запрещено.
 
-\033[1;31m If you are installing this tool.
- that means you are agree with all terms.''')
+\033[1;31m Если вы устанавливаете этот инструмент.
+ это означает, что вы согласны со всеми условиями.''')
     self.tool_footer()
 
   @classmethod
   def ins_sc(self):
     self.tool_header()
     print ('''
-\033[1;33m    [ + ] \033[1;32mTool-X installed successfully.
-\033[1;33m    [ + ] \033[1;32mTo run Tool-X.
-\033[1;33m    [ + ] \033[1;32mType Tool-X in your terminal.''')
+\033[1;33m    [ + ] \033[1;32mTool-X успешно установлен.
+\033[1;33m    [ + ] \033[1;32mЗапустить Tool-X.
+\033[1;33m    [ + ] \033[1;32mВведите Tool-X в вашем терминале.''')
     self.tool_footer()
 
   @classmethod
   def update(self):
     self.tool_header()
     print ('''
-\033[1;33m  [ 1 ] \033[1;32mUpdate your Tool-X.
-\033[1;33m  [ 0 ] \033[1;32mFor Back.\033[00m''')
+\033[1;33m  [ 1 ] \033[1;32mОбновите ваш Tool-X.
+\033[1;33m  [ 0 ] \033[1;32mВернуться.\033[00m''')
     self.tool_footer()
 
   @classmethod
   def updated(self):
     self.tool_header()
     print ('''
-\033[1;33m      [ + ] \033[1;32mTool-X Updated Successfully.
-\033[1;33m      [ + ] \033[1;32mPress Enter to continue.\033[00m''')
+\033[1;33m      [ + ] \033[1;32mTool-X успешно обновлен.
+\033[1;33m      [ + ] \033[1;32mНажмите Enter, чтобы продолжить.\033[00m''')
     self.tool_footer()
 
   @classmethod
   def nonet(self):
     self.tool_header()
     print ('''
-\033[1;31m  [ + ]  \033[1;31mNo network connection?\033[1;m
-\033[1;31m  [ + ]  \033[1;31mAre you offline?\033[1;m
-\033[1;31m  [ + ]  \033[1;31mPlease try again after some time.\033[00m''')
+\033[1;31m  [ + ]  \033[1;31mНет сетевого подключения?\033[1;m
+\033[1;31m  [ + ]  \033[1;31mВы в автономном режиме?\033[1;m
+\033[1;31m  [ + ]  \033[1;31mПожалуйста, попробуйте еще раз через некоторое время.\033[00m''')
     self.tool_footer()
 
   @classmethod
   def update_error(self):
     self.tool_header()
     print ('''
-\033[1;31m  [ + ]  \033[1;31mWe can't Update Tool-X.\033[1;m
-\033[1;31m  [ + ]  \033[1;31mPlease try again after some time.\033[00m''')
+\033[1;31m  [ + ]  \033[1;31mМы не можем обновить Tool-X.\033[1;m
+\033[1;31m  [ + ]  \033[1;31mПожалуйста, попробуйте еще раз через некоторое время.\033[00m''')
     self.tool_footer()
 
 
@@ -99,9 +100,9 @@ class logo:
 \033[1;33m       [+] Latest Update :- \033[1;32m23/2/2020.\033[1;m
 \033[1;33m       [+] Tools :- \033[1;32mtotal {total} tools.\033[1;m
 									
-\033[1;33m [+] \033[1;32mTool-x is automatic tool installer.
-\033[1;33m [+] \033[1;32mMade for termux and linux based system.
-\033[1;31m [+] Note :- Use this tool at your own risk.''')
+\033[1;33m [+] \033[1;32mTool-x - это автоматический установщик инструмента.
+\033[1;33m [+] \033[1;32mСделано для системы на основе termux и linux.
+\033[1;31m [+] Note :- Используйте этот инструмент на свой страх и риск.''')
     self.tool_footer()
 
 
@@ -116,7 +117,7 @@ class logo:
     self.tool_header()
     print(f'''
 \033[1;33m  [ + ] \033[1;32mSorry ??
-\033[1;33m  [ + ] \033[1;37m'{name}'\033[01;32m is already Installed !!
+\033[1;33m  [ + ] \033[1;37m'{name}'\033[01;32m уже установлено !!
 ''')
     self.tool_footer()
 
@@ -124,8 +125,8 @@ class logo:
   def installed(self,name):
     self.tool_header()
     print(f'''
-\033[1;33m  [ + ] \033[1;32mInstalled Successfully !!
-\033[1;33m  [ + ] \033[1;37m'{name}'\033[01;32m is Installed Successfully !!
+\033[1;33m  [ + ] \033[1;32mУспешно установлено!!
+\033[1;33m  [ + ] \033[1;37m'{name}'\033[01;32m успешно установлен!!
 ''')
     self.tool_footer()
 
@@ -133,8 +134,8 @@ class logo:
   def not_installed(self,name):
     self.tool_header()
     print(f'''
-\033[1;33m  [ + ] \033[1;31mSorry ??
-\033[1;33m  [ + ] \033[1;37m'{name}'\033[01;31m is not Installed !!
+\033[1;33m  [ + ] \033[1;31mИзвини ??
+\033[1;33m  [ + ] \033[1;37m'{name}'\033[01;31m не установлено !!
 ''')
     self.tool_footer()
 
@@ -160,17 +161,17 @@ class logo:
   def menu(self,total):
     self.tool_header()
     print (f'''
-\033[1;33m  [ 1 ] \033[1;32mShow all tools.\033[1;33m [ \033[1;91mAlmost {total} tools\033[1;33m ]
-\033[1;33m  [ 2 ] \033[1;32mTools Category.
-\033[1;33m  [ 3 ] \033[1;32mUpdate Tool-X.
-\033[1;33m  [ 4 ] \033[1;32mAbout Us.
-\033[1;33m  [ x ] \033[1;32mFor Exit.''')
+\033[1;33m  [ 1 ] \033[1;32mПоказать все инструменты.\033[1;33m [ \033[1;91mAlmost {total} tools\033[1;33m ]
+\033[1;33m  [ 2 ] \033[1;32mКатегории
+\033[1;33m  [ 3 ] \033[1;32mОбновление
+\033[1;33m  [ 4 ] \033[1;32mПро Меня
+\033[1;33m  [ x ] \033[1;32mВыход.''')
     self.tool_footer()
 
   @classmethod
   def exit(self):
     self.tool_header()
     print ('''
-\033[1;33m         [ + ] \033[1;32mThanks for using Tool-X
-\033[1;33m         [ + ] \033[1;32mGood By..... :)\033[00m''')
+\033[1;33m         [ + ] \033[1;32mСпасибо за использование Tool-X
+\033[1;33m         [ + ] \033[1;32mПока.....:)\033[00m''')
     self.tool_footer()
