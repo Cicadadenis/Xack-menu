@@ -215,6 +215,14 @@
     "package_manager" : "git",
     "dependency" : ["python","git"]
   },
+   "DDOS-ATACK" : { 
+    "name" : "DDOS-ATACK",
+    "package_name" : "DDOS-ATACK",
+    "category" : ["Bednakov","ddos"],
+    "url" : "https://github.com/bednakovdenis/DDOS-ATACK.git",
+    "package_manager" : "git",
+    "dependency" : ["python","git"]
+  },
   "D-TECT" : { 
     "name" : "D-TECT",
     "package_name" : "D-TECT",
@@ -1399,6 +1407,14 @@
     "package_manager" : "git",
     "dependency" : ["python","git"]
   },
+   "den" : { 
+    "name" : "den",
+    "package_name" : "den",
+    "category" : ["Bednakov"],
+    "url" : "https://github.com/bednakovdenis/den.git",
+    "package_manager" : "git",
+    "dependency" : ["python","git"]
+  },
   "distorm" : { 
     "name" : "distorm",
     "package_name" : "distorm",
@@ -1542,6 +1558,14 @@
     "url" : "https://gitlab.com/kalilinux/packages/extundelete.git",
     "package_manager" : "git",
     "dependency" : ["clang","gcc","g++","python","git"]
+  },
+  "evildroid" : { 
+    "name" : "evildroid",
+    "package_name" : "evildroid",
+    "category" : ["Bednakov"],
+    "url" : "https://github.com/bednakovdenis/evildroid.git",
+    "package_manager" : "git",
+    "dependency" : ["git"]
   },
   "ezsploit" : { 
     "name" : "ezsploit",
@@ -1895,6 +1919,14 @@
     "package_manager" : "git",
     "dependency" : ["php","git"]
   },
+  "ipfy" : { 
+    "name" : "ipfy",
+    "package_name" : "ipfy",
+    "category" : ["Bednakov","ip_tracking"],
+    "url" : "https://github.com/bednakovdenis/ipfy.git",
+    "package_manager" : "git",
+    "dependency" : ["clang","gcc","g++","git"]
+  },
   "kalibrate-rtl" : { 
     "name" : "kalibrate-rtl",
     "package_name" : "kalibrate-rtl",
@@ -2196,6 +2228,14 @@
     "package_name" : "patator",
     "category" : ["password_attack"],
     "url" : "https://gitlab.com/kalilinux/packages/patator.git",
+    "package_manager" : "git",
+    "dependency" : ["python","git"]
+  },
+  "passgen" : { 
+    "name" : "passgen",
+    "package_name" : "passgen",
+    "category" : ["Bednakov"],
+    "url" : "https://github.com/bednakovdenis/passgen.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
   },
@@ -2676,6 +2716,14 @@
     "package_name" : "trape",
     "category" : ["ip_tracking"],
     "url" : "https://github.com/boxug/trape.git",
+    "package_manager" : "git",
+    "dependency" : ["python","git"]
+  },
+  "tramden" : { 
+    "name" : "tramden",
+    "package_name" : "tramden",
+    "category" : ["Bednakov"],
+    "url" : "https://github.com/bednakovdenis/tramden.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
   },
