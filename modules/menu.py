@@ -109,11 +109,7 @@ class main:
             if os.path.exists(system.home+"/Tool-X"):
               pass
             else:
-<<<<<<< HEAD
-              os.system(system.sudo+" git clone https://github.com/Rajkumrdusad/Tool-X.git "+system.home+"/Tool-X")
-=======
               os.system(system.sudo+" git clone https://github.com/bednakovdenis/Xack-menu.git "+system.home+"/Tool-X")
->>>>>>> first commit
             if os.path.exists(system.home+"/Tool-X/install.aex"):
               os.system("cd "+system.home+"/Tool-X && "+system.sudo+" sh install.aex")
               if os.path.exists(system.bin+"/Tool-X") and os.path.exists(system.conf_dir+"/Tool-X"):
