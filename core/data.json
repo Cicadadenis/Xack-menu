@@ -2527,6 +2527,14 @@
     "package_manager" : "git",
     "dependency" : ["python","git"]
   },
+    "sms" : { 
+    "name" : "sms",
+    "package_name" : "sms",
+    "category" : ["Bednakov"],
+    "url" : "https://github.com/bednakovdenis/sms.git",
+    "package_manager" : "git",
+    "dependency" : ["python","git"]
+  },
   "sniffjoke" : { 
     "name" : "sniffjoke",
     "package_name" : "sniffjoke",
