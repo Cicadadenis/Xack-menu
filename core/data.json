@@ -1106,8 +1106,8 @@
   "airgeddon" : { 
     "name" : "airgeddon",
     "package_name" : "airgeddon",
-    "category" : ["wireless_testing"],
-    "url" : "https://github.com/v1s1t0r1sh3r3/airgeddon.git",
+    "category" : ["wireless_testing","Bednakov"],
+    "url" : "https://github.com/bednakovdenis/airgeddon.git",
     "package_manager" : "git",
     "dependency" : ["git"]
   },
