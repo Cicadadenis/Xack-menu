@@ -791,9 +791,9 @@
     "package_manager" : "git",
     "dependency" : ["php","git"]
   },
-  "SETOOLKIT" : { 
-    "name" : "SET",
-    "package_name" : "social-engineer-toolkit",
+  "setoolkit" : { 
+    "name" : "setoolkit",
+    "package_name" : "setoolkit",
     "category" : ["information_gathering","Bednakov","exploitation_tools","password_attack","sniffing_spoofing"],
     "url" : "https://github.com/bednakovdenis/setoolkit",
     "package_manager" : "git",
