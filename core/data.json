@@ -791,11 +791,11 @@
     "package_manager" : "git",
     "dependency" : ["php","git"]
   },
-  "SET" : { 
+  "SETOOLKIT" : { 
     "name" : "SET",
     "package_name" : "social-engineer-toolkit",
-    "category" : ["information_gathering","exploitation_tools","password_attack","sniffing_spoofing"],
-    "url" : "https://github.com/trustedsec/social-engineer-toolkit.git",
+    "category" : ["information_gathering","Bednakov","exploitation_tools","password_attack","sniffing_spoofing"],
+    "url" : "https://github.com/bednakovdenis/setoolkit",
     "package_manager" : "git",
     "dependency" : ["python","git"]
   },
