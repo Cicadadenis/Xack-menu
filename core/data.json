@@ -2898,15 +2898,7 @@
   "wi-fi" : { 
     "name" : "wi-fi",
     "package_name" : "wi-fi",
-    "category" : ["wireless_testing""Bednakov"],
-    "url" : "https://github.com/bednakovdenis/wi-fi.git",
-    "package_manager" : "git",
-    "dependency" : ["python","git"]
-  },
-  "wifite" : { 
-    "name" : "wifite",
-    "package_name" : "wifite",
-    "category" : ["wireless_testing"],
+    "category" : ["Bednakov"],
     "url" : "https://github.com/bednakovdenis/wi-fi.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
