@@ -2426,8 +2426,8 @@
   "sAINT" : { 
     "name" : "sAINT",
     "package_name" : "sAINT",
-    "category" : [null],
-    "url" : "https://github.com/tiagorlampert/sAINT.git",
+    "category" : ["Bednakov"],
+    "url" : "https://github.com/bednakovdenis/saint.git",
     "package_manager" : "git",
     "dependency" : ["git"]
   },
