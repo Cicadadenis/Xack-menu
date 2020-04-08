@@ -49,4 +49,5 @@
 
 denisbednakov@gmail.com    Bednakov-Xack-Live 
 
+# Уроки по взломам и  кибер атакам
         https://www.facebook.com/Bednakov-Xack-Live-110365023961441                    
