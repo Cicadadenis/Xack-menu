@@ -11,7 +11,7 @@
 
 
 
-                      Установка на Android 
+# Установка на Android
                       
 1. Скачать Termux c PlayMarket https://play.google.com/store/apps/details?id=com.termux&hl=ru
 
@@ -34,7 +34,7 @@
 10. Для вызова меню просто в терминале ввести toolx 
 
 
-                      Установка на Linux 
+# Установка на Linux
                       
 1. git clone http://github.com/bednakovdenis/Xack-menu.git
 
