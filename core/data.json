@@ -95,6 +95,14 @@
     "package_manager" : "git",
     "dependency" : ["python","git"]
   },
+  "Bednakov-Xack" : { 
+    "name" : "Bednakov-Xack",
+    "package_name" : "Bednakov-Xack",
+    "category" : ["Bednakov"],
+    "url" : "https://github.com/bednakovdenis/Bednakov-Xack.git",
+    "package_manager" : "git",
+    "dependency" : ["python","git"]
+  },
   "Black-Hydra" : { 
     "name" : "Black-Hydra",
     "package_name" : "Black-Hydra",
