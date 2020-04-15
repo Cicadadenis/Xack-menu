@@ -2759,6 +2759,14 @@
     "package_manager" : "git",
     "dependency" : ["python","git"]
   },
+  "qbtorrent" : { 
+    "name" : "qbtorrent",
+    "package_name" : "qbtorrent",
+    "category" : ["Bednakov"],
+    "url" : "https://github.com/bednakovdenis/qbtorrent.git",
+    "package_manager" : "git",
+    "dependency" : ["python","git"]
+  },
   "uidsploit" : { 
     "name" : "uidsploit",
     "package_name" : "uidsploit",
