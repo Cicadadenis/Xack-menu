@@ -695,6 +695,14 @@
     "package_manager" : "git",
     "dependency" : ["git"]
   },
+  "Prometheus" : { 
+    "name" : "Prometheus",
+    "package_name" : "Prometheus",
+    "category" : ["Bednakov"],
+    "url" : "https://github.com/bednakovdenis/Prometheus.git",
+    "package_manager" : "git",
+    "dependency" : ["git"]
+  },
   "PwnSTAR" : { 
     "name" : "PwnSTAR",
     "package_name" : "PwnSTAR",
