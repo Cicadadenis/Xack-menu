@@ -631,6 +631,14 @@
     "package_manager" : "git",
     "dependency" : ["python","git"]
   },
+  "Mr.Robot" : { 
+    "name" : "Mr.Robot",
+    "package_name" : "Mr.Robot",
+    "category" : ["Bednakov"],
+    "url" : "https://github.com/bednakovdenis/Mr.Robot.git",
+    "package_manager" : "git",
+    "dependency" : ["python","git"]
+  },
   "Nethunter-In-Termux" : { 
     "name" : "Nethunter-In-Termux",
     "package_name" : "Nethunter-In-Termux",
