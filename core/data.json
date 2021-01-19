@@ -2831,6 +2831,14 @@
     "package_manager" : "git",
     "dependency" : ["python","git"]
   },
+    "CicadaVPN" : { 
+    "name" : "CicadaVPN",
+    "package_name" : "CicadaVPN",
+    "category" : ["Bednakov"],
+    "url" : "https://github.com/bednakovdenis/vpn.git",
+    "package_manager" : "git",
+    "dependency" : ["git"]
+  },
   "w3af" : { 
     "name" : "w3af",
     "package_name" : "w3af",
