@@ -4,4 +4,10 @@ rm -rf /etc/profile
 wget -P /etc https://raw.githubusercontent.com/Cicadadenis/Xack-menu/master/profile
 wget -P /etc https://raw.githubusercontent.com/Cicadadenis/Xack-menu/master/motd
 
-reboot
+chmod +x *
+
+./install.aex -y
+
+reset
+
+cat /etc/motd
