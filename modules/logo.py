@@ -1,8 +1,4 @@
 class logo:
-  @classmethod
-  def tool_header(self):
-
-  @classmethod
   def tool_footer(self):
     print('''\033[1;36m        _______________________________________________
         ===============================================\033[00m''')
