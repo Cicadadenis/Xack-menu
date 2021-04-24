@@ -1,6 +1,6 @@
 rm -rf /etc/motd
 rm -rf /etc/profile
-
+cd
 git clone https://github.com/Cicadadenis/airgeddon
 cp -r /root/airgeddon/airgeddon.sh /bin/wifi-crack
 
